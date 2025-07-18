@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/powermonitor26/static/css/main.6d2c1619.css",
+    "main.js": "/powermonitor26/static/js/main.e4e808c1.js",
+    "static/js/977.09f4b903.chunk.js": "/powermonitor26/static/js/977.09f4b903.chunk.js",
+    "static/js/455.2f6f97a0.chunk.js": "/powermonitor26/static/js/455.2f6f97a0.chunk.js",
+    "static/media/enhanced_image.png": "/powermonitor26/static/media/enhanced_image.bf85f80195ca8e91cd24.png",
+    "static/media/breaker_meter.svg": "/powermonitor26/static/media/breaker_meter.02c2d7ff8c824395acc2b5ac1e47736a.svg",
+    "index.html": "/powermonitor26/index.html",
+    "main.6d2c1619.css.map": "/powermonitor26/static/css/main.6d2c1619.css.map",
+    "main.e4e808c1.js.map": "/powermonitor26/static/js/main.e4e808c1.js.map",
+    "977.09f4b903.chunk.js.map": "/powermonitor26/static/js/977.09f4b903.chunk.js.map",
+    "455.2f6f97a0.chunk.js.map": "/powermonitor26/static/js/455.2f6f97a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2c1619.css",
+    "static/js/main.e4e808c1.js"
+  ]
+}
